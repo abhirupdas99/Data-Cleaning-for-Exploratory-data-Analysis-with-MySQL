@@ -218,5 +218,5 @@ layoffs_cleaned.csv
 
 Abhirup Das
 Computer Science Graduate | Data & Analytics Enthusiast
-GitHub: (add link)
-LinkedIn: (add link)
+GitHub: https://github.com/abhirupdas99
+LinkedIn: https://www.linkedin.com/in/abhirup-das-774052189/
