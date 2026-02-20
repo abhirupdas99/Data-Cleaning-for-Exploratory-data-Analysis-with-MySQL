@@ -237,7 +237,7 @@ SELECT
     stage,
     country,
     IFNULL(funds_raised_millions, '') AS funds_raised_millions
-FROM layoffs
+FROM layoffs_staged_unique
 INTO OUTFILE 'C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\layoffs_cleaned.csv'
 FIELDS TERMINATED BY ','    
 ENCLOSED BY '"'
